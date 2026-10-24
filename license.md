@@ -155,3 +155,5 @@ stores them, and avoids upload time on large files.
 ---
 
 *open-background-remover-tool · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- last reviewed 2026-10-24 -->
